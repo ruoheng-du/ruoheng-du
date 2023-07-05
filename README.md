@@ -47,7 +47,13 @@ Hi there! This is Ruoheng Du. ✌️
     <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/a4cc1525-ce57-4809-9c78-e2ff1bee5c8a" alt="oracle crystal ball" width="40" height="40"/> 
   </a>
 
-</p> 
+  <!-- Autodesk Maya -->
+  <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription" target="_blank"> 
+    <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/c68e4ac9-766e-475a-8043-a22d929adb7c" alt="autodesk maya" width="40" height="40"/> 
+  </a>
+
+</p>
+
 
 <h3 align="left">GitHub Stats</h3>
 <p align="left"> 
