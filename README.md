@@ -36,7 +36,17 @@ Hi there! This is Ruoheng Du. ✌️
   <a href="https://opencv.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
-  
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org" target="_blank">
+    <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/cd5e13e5-e7b4-4349-b149-a0fc3e618708" alt="matplotlib" width="40" height="40"/>
+  </a>
+
   <!-- Minitab -->
   <a href="https://www.minitab.com/en-us/" target="_blank"> 
     <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/27f09066-0fcf-4f84-bf64-fe72432a2041" alt="minitab" width="40" height="40"/> 
