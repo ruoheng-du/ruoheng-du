@@ -7,8 +7,8 @@ Hi there! This is Ruoheng Du. ✌️
 
 - 🔭 I’m currently studying Data Science & Business and Finance at NYUSH
 - 🏠 I'm from Shanghai, China
-- 😄 Pronouns: She/Her/Hers
 - 🎙️ I speak Mandarin and English
+- 😄 Pronouns: She/Her/Hers
 - ⚡️ Fun fact: I've been collecting stamps for over ten years
 - ⚠️ Some repositories are currently private for academic integrity purpose.
 - 📫 Feel free to reach out to me at rd2910@nyu.edu
