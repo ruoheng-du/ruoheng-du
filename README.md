@@ -3,7 +3,7 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=ruoheng-du)
 
-Hi there! This is Ruoheng Du. ✌️
+Hi there! This is Ruoheng Du.
 
 - 🔭 I’m currently studying Data Science & Business and Finance at NYUSH
 - 🏠 I'm from Shanghai, China
