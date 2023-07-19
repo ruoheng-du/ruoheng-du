@@ -9,7 +9,7 @@ Hi there! This is Ruoheng Du.
 - 🏠 I'm from Shanghai, China
 - 🎙️ I speak Mandarin and English
 - 😄 Pronouns: She/Her/Hers
-- ⚡️ Fun fact: I've been collecting stamps for over ten years
+- ⚡️ Fun fact: I can make plum wine (Umeshu/Maesil-ju)
 - ⚠️ Some repositories are currently private for academic integrity purpose.
 - 📫 Feel free to reach out to me at rd2910@nyu.edu
 
