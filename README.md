@@ -75,8 +75,6 @@ Hi there! This is Ruoheng Du.
 </p>
 
 
-<!--
-
 <h3 align="left">GitHub Stats</h3>
 <p align="left"> 
 
