@@ -43,8 +43,13 @@ Hi there! This is Ruoheng Du.
   </a>
 
   <!-- sklearn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+
+  <!-- keras -->
+  <a href="https://keras.io/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1920px-Keras_logo.svg.png" alt="keras" width="40" height="40"/>
   </a>
 
   <!-- Matplotlib -->
