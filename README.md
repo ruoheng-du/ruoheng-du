@@ -42,6 +42,11 @@ Hi there! This is Ruoheng Du.
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
 
+  <!-- sklearn -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+
   <!-- Matplotlib -->
   <a href="https://matplotlib.org" target="_blank">
     <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/cd5e13e5-e7b4-4349-b149-a0fc3e618708" alt="matplotlib" width="40" height="40"/>
