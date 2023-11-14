@@ -25,21 +25,16 @@ Hi there! This is Ruoheng Du.
   <!-- R -->
   <a href="https://www.r-project.org/" target="_blank"> 
     <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/60ad3a32-42bc-4229-8588-b78b4c32823e" alt="r" width="40" height="40"/> 
+  </a>  
+  
+  <!-- pytorch -->
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
   
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <!-- tensorflow -->
+  <a href="https://www.tensorflow.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
 
   <!-- sklearn -->
@@ -50,6 +45,16 @@ Hi there! This is Ruoheng Du.
   <!-- keras -->
   <a href="https://keras.io/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1920px-Keras_logo.svg.png" alt="keras" width="40" height="40"/>
+  </a>
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  
+  <!-- OpenCV -->
+  <a href="https://opencv.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
 
   <!-- Matplotlib -->
@@ -70,6 +75,11 @@ Hi there! This is Ruoheng Du.
   <!-- Autodesk Maya -->
   <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription" target="_blank"> 
     <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/c68e4ac9-766e-475a-8043-a22d929adb7c" alt="autodesk maya" width="40" height="40"/> 
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
 
 </p>
