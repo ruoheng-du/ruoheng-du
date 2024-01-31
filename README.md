@@ -88,14 +88,15 @@ Hi there! This is Ruoheng Du.
 <h3 align="left">GitHub Stats</h3>
 <p align="left"> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruoheng-du&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruoheng-du&theme=onedark&layout=compact)
 
 </p> 
 
 
 <!--
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruoheng-du&show_icons=true&theme=tokyonight)
+
 https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
