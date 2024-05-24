@@ -5,13 +5,13 @@
 
 Hi there! This is Ruoheng Du.
 
-- 🔭 I’m currently studying Data Science & Business and Finance at NYUSH
+- 🔭 I’m currently studying Data Science at Columbia
 - 🏠 I'm from Shanghai, China
 - 🎙️ I speak Mandarin and English
 - 👧 Pronouns: She/Her/Hers
 - 💡 Fun fact: I can make plum wine (Umeshu/Maesil-ju)
 - ⚠️ Some repositories may be temporarily private for academic integrity purpose
-- 📫 Feel free to reach out to me at rd2910@nyu.edu
+- 📫 Feel free to reach out to me at ruoheng.du@columbia.edu
 
 
 <h3 align="left">Languages and Tools</h3>
