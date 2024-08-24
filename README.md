@@ -5,11 +5,11 @@
 
 Hi there! This is Ruoheng Du.
 
-- 🔭 I’m currently studying Data Science at Columbia
+- 🔭 I’m currently studying Data Science at Columbia Engineering
 - 🏠 I'm from Shanghai, China
 - 🎙️ I speak Mandarin and English
 - 👧 Pronouns: She/Her/Hers
-- 💡 Fun fact: I can make plum wine (Umeshu/Maesil-ju)
+- 💡 Fun fact: I can make plum wine (Umeshu/Maesil-ju) at home
 - ⚠️ Some repositories may be temporarily private for academic integrity purpose
 - 📫 Feel free to reach out to me at ruoheng.du@columbia.edu
 
