@@ -5,7 +5,7 @@
 
 Hi there! This is Ruoheng Du.
 
-- 🔭 I’m currently studying Data Science at Columbia Engineering
+- 🔭 I'm currently studying Data Science at Columbia Engineering
 - 🏠 I'm from Shanghai, China
 - 🎙️ I speak Mandarin and English
 - 👧 Pronouns: She/Her/Hers
