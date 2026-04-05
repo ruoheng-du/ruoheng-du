@@ -5,16 +5,29 @@
 
 Hi there! This is Ruoheng Du.
 
-- 🔭 I'm currently studying Data Science at Columbia Engineering
-- 🏠 I'm from Shanghai, China
-- 🎙️ I speak Mandarin and English
+<h3 align="left">About Me</h3>
+
+Data Analyst with a background in Data Science, passionate about turning data into actionable business insights.
+
+- 🎓 M.S. in Data Science from Columbia Engineering & B.S. in Data Science from New York University
+- 🌏 Based in Shanghai, China  
+- 🗣️ Fluent in Mandarin and English  
+- 💡 Interests: data analysis, machine learning, and business problem-solving  
 - 👧 Pronouns: She/Her/Hers
 - 💡 Name pronunciation: *Ruoheng* → *roo-oh-hung*
-- ⚠️ Some repositories may be temporarily private for academic integrity purpose
-- 📫 Feel free to reach out to me at ruoheng.du@columbia.edu
 
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Collaboration</h3>
+
+I’m always open to collaboration opportunities in: 
+- Business analytics / strategy
+- Data analysis projects
+- Machine learning and LLM applications  
+
+📫 Feel free to reach out if you’d like to collaborate or discuss ideas: **ruoheng.du@columbia.edu**
+
+
+<h3 align="left">Tech Stack</h3>
 <p align="left"> 
 
   <!-- Python -->
@@ -31,11 +44,6 @@ Hi there! This is Ruoheng Du.
   <a href="https://matplotlib.org" target="_blank">
     <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/cd5e13e5-e7b4-4349-b149-a0fc3e618708" alt="matplotlib" width="40" height="40"/>
   </a> 
-
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
 
   <!-- pytorch -->
   <a href="https://pytorch.org/" target="_blank"> 
@@ -87,21 +95,6 @@ Hi there! This is Ruoheng Du.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
 
-  <!-- Minitab -->
-  <a href="https://www.minitab.com/en-us/" target="_blank"> 
-    <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/27f09066-0fcf-4f84-bf64-fe72432a2041" alt="minitab" width="40" height="40"/> 
-  </a>
-
-  <!-- Oracle Crystal Ball -->
-  <a href="https://www.oracle.com/applications/crystalball/" target="_blank"> 
-    <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/a4cc1525-ce57-4809-9c78-e2ff1bee5c8a" alt="oracle crystal ball" width="40" height="40"/> 
-  </a>
-
-  <!-- Autodesk Maya -->
-  <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription" target="_blank"> 
-    <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/c68e4ac9-766e-475a-8043-a22d929adb7c" alt="autodesk maya" width="40" height="40"/> 
-  </a> 
-
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -125,7 +118,31 @@ Hi there! This is Ruoheng Du.
 </p> 
 
 
+
+
+
 <!--
+
+  Seaborn
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>
+
+  Minitab
+  <a href="https://www.minitab.com/en-us/" target="_blank"> 
+    <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/27f09066-0fcf-4f84-bf64-fe72432a2041" alt="minitab" width="40" height="40"/> 
+  </a>
+
+  Oracle Crystal Ball
+  <a href="https://www.oracle.com/applications/crystalball/" target="_blank"> 
+    <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/a4cc1525-ce57-4809-9c78-e2ff1bee5c8a" alt="oracle crystal ball" width="40" height="40"/> 
+  </a>
+
+  Autodesk Maya
+  <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription" target="_blank"> 
+    <img src="https://github.com/ruoheng-du/ruoheng-du/assets/99549293/c68e4ac9-766e-475a-8043-a22d929adb7c" alt="autodesk maya" width="40" height="40"/> 
+  </a> 
+  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruoheng-du&show_icons=true&theme=tokyonight)
 
