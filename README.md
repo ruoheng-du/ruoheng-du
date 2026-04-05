@@ -122,13 +122,6 @@ Hi there! This is Ruoheng Du.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
   </a>
 
-</p>
-
-<h3 align="left">GitHub Stats</h3>
-<p align="left"> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruoheng-du&theme=onedark&layout=compact)
-
 </p> 
 
 
